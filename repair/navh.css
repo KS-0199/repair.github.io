@@ -1,0 +1,36 @@
+body{
+margin: 0px;
+}
+
+ul{
+
+list-style-type: none;
+padding: 10px;
+background-color: rgb(70, 192, 240);
+overflow: hidden;
+}
+
+li{
+
+float: left;
+border-right: 1px solid rgb(9, 9, 9)
+
+}
+
+la a{
+
+display: block;
+padding: 30px;
+text-decoration: none;
+font-size: 30px;
+color: rgb(10, 10, 10);
+text-align: left;
+}
+
+li a:hover{
+
+background-color: rgb(43, 43, 43);
+color: yellow;
+
+
+}
